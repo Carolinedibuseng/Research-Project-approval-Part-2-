@@ -1,6 +1,7 @@
 # Research & Project approval (Part 2)
 
 ZOO UNITY MVP Specification
+
 Project Title: ZOO UNITY - Connecting Lonely Zoo Animals and Reuniting Extinct Species Worldwide
 
 Team Members
