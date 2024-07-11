@@ -1,4 +1,5 @@
-# https-docs.google.com-document-d-1OpQNgt5gxfjBacH5RwpMXH4M5nAwIwFrXrnC8rLMIXE-edit-usp-sharing
+# Research & Project approval (Part 2)
+
 ZOO UNITY MVP Specification
 Project Title: ZOO UNITY - Connecting Lonely Zoo Animals and Reuniting Extinct Species Worldwide
 
